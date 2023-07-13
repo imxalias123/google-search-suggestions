@@ -1,1 +1,13 @@
 /* Write your CSS here */
+.suggestion-item-container{
+    display:flex;
+    justify-content: space-between;
+}
+.button{
+    border:0px;
+    background:none;
+    
+}
+.arrow{
+width:20px;
+}
